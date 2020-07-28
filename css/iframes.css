@@ -1,0 +1,28 @@
+
+body{
+	background-color: #262626;
+	height: 100vh;
+	font-family: Chelsea Market, Cursive;
+	font-weight: 20px;
+}
+
+h1{
+	text-align: center;
+	color: #52B2Bf;
+}
+
+h2{
+	
+	padding: 40px;
+	margin: 25px;
+	color: #FFFAFA;
+
+}
+
+h3{
+	/*float: right;*/
+	padding: 40px;
+	margin: 25px;
+	/*text-align: center;*/
+	color: #f0fff0;
+}
